@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inheritance2
+comment1.params=n1\ a1\ t1\ r1
+comment1.target=Detail(java.lang.String,\ java.lang.String,\ long,\ double)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

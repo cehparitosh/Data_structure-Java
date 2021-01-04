@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Inheritance3
+comment0.text=\ In\ your\ exams\ you\ don't\ need\ to\ write\ the\ below\ given\ code\r\n\ \ \ We\ are\ writing\ it\ so\ as\ to\ familiarize\ the\ students\ on\ how\ to\ run\r\nprograms\ based\ on\ the\ concept\ of\ inheritance.
+comment1.params=x\ y
+comment1.target=Perimeter(double,\ double)
+comment2.params=
+comment2.target=double\ Calculate()
+comment3.params=
+comment3.target=void\ show()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
